@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Increment Decrement Program</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="HL_Title">Increment / Decrement</string>
+    <string name="currentNum">The current number is:</string>
+    <string name="num"></string>
+</resources>
